@@ -34,5 +34,6 @@ function getTotalSupply() {
 
 mintNFT("CryptoDuck", "A unique digital duck", "https://example.com/duck.png");
 mintNFT("SmokingChicken", "A pixelated smoking chicken avatar", "https://example.com/smokingchicken.png");
+mintNFT("BasketBallGoose", "A Cartoon basketball goose", "https://example.com/basketballgoose.png");
 listNFTs();
 console.log(`Total NFTs: ${getTotalSupply()}`);
